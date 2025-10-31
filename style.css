@@ -77,9 +77,9 @@ background-color: lemonchiffon;
         align-items: center;
     }
     .gallery__img{
-        margin: 10px;
-        display:flex;
-        align-items: center;
+    margin: 10px;
+    display:flex;
+    align-items: center;
     width:auto;
     height:300px;
     object-fit: contain;
@@ -87,6 +87,7 @@ background-color: lemonchiffon;
     border-radius: 4px;
     }
 }
+
 
 
 
